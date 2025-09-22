@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hình ảnh Hội NCT Phú Thủy</title>
+</head>
+<body>
+  <h1>Hình ảnh</h1>
+  <p>Đây là nơi đăng tải hình ảnh hoạt động của Hội.</p>
+  <img src="https://via.placeholder.com/400x200" alt="Ảnh minh họa">
+  <br>
+  <a href="index.html">← Về trang chủ</a>
+</body>
+</html>
