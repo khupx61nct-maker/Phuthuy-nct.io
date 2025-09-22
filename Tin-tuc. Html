@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tin tức Hội NCT Phú Thủy</title>
+</head>
+<body>
+  <h1>Tin tức</h1>
+  <ul>
+    <li>20/9/2025: Tổ chức họp mặt giao lưu văn nghệ.</li>
+    <li>15/9/2025: Hoạt động thể dục dưỡng sinh tại công viên.</li>
+  </ul>
+  <a href="index.html">← Về trang chủ</a>
+</body>
+</html>
