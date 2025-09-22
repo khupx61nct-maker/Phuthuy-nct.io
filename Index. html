@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Hội NCT Phường Phú Thủy</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #006400; color: white; padding: 15px; text-align: center; }
+    nav { background: #228B22; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    main { padding: 20px; }
+    footer { background: #f1f1f1; text-align: center; padding: 10px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hội Người Cao Tuổi Phường Phú Thủy</h1>
+  </header>
+  <nav>
+    <a href="#">Trang chủ</a>
+    <a href="#">Tin tức</a>
+    <a href="#">Hình ảnh</a>
+    <a href="#">Liên hệ</a>
+  </nav>
+  <main>
+    <h2>Chào mừng!</h2>
+    <p>Đây là trang thông tin chính thức của Hội Người Cao Tuổi phường Phú Thủy.  
+    Nơi cập nhật tin tức, hoạt động và hình ảnh hàng ngày.</p>
+  </main>
+  <footer>
+    &copy; 2025 Hội NCT Phú Thủy
+  </footer>
+</body>
+</html>
